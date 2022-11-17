@@ -2,15 +2,15 @@
 ## Instructor Notes
 
 
-### 0. Instructor Prep List (Prior to Workshop)
+### 0. Instructor Prep List
 
 
 ---
-### 1. Engage Classroom (1-2 min.)
+### 1. Engage Classroom
 
 
 ---
-### 2. Getting Started (3-5 min.)
+### 2. Getting Started
 - Function definitions
 - Using the standard library
   - random.randint
@@ -39,9 +39,8 @@ def dice(rolls: int, sides: int) -> int:
 ```
 
 ---
-### 4. Let’s Build (30-40 min.)
-Follow the lesson as described in the [lesson.ipynb](lesson.ipynb) file.
+### 4. Let’s Build
 
 
 ---
-### 5. Wrap Up (7-10 min.)
+### 5. Wrap Up

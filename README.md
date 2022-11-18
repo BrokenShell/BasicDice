@@ -3,15 +3,18 @@
 
 
 ### 0. Instructor Prep List
-
+Read through the code and make sure the `main.py` file executes without error.
 
 ---
 ### 1. Engage Classroom
-
+Personalize the experience by asking the group what games they like to play that involve dice. Suggest that they could implement many of those games with some fairly simple code. At the least, they could implement the dice portion of the game. And that's what we're doing today!
 
 ---
 ### 2. Getting Started
 - Function definitions
+  - def
+  - args
+  - return
 - Using the standard library
   - random.randint
 - Builtins
@@ -39,8 +42,9 @@ def dice(rolls: int, sides: int) -> int:
 ```
 
 ---
-### 4. Let’s Build
-
+### 4. Let’s Build Some Dice!
+Code the lesson following the main.py file.
 
 ---
 ### 5. Wrap Up
+Resources for learning Python...

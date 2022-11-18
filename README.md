@@ -26,7 +26,7 @@ Personalize the experience by asking the group what games they like to play that
 
 
 ---
-### 3. What Are We Building? (2-3 min.)
+### 3. What Are We Building?
 Show an example of the finished product if applicable.
 ```python
 import random
